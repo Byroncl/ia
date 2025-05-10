@@ -1,6 +1,0 @@
-Flask
-pandas
-easyocr
-transformers
-torch
-Pillow
